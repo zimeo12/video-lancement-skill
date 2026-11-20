@@ -1,0 +1,8 @@
+[
+ [0.5, "number rises", "k:drop_004", {"gain": 0.35, "rate": 0.8}],
+ [1.0, "count up", "ticks", {"len": 1.6, "n": 30, "gain": 0.3}],
+ [8.0, "card lands", "k:maximize_004", {"gain": 0.35}],
+ [9.2, "typing url", "keys", {"len": 0.55}],
+ [11.5, "continue", "k:mouseclick1", {"gain": 0.6}],
+ [11.57, "release", "k:mouserelease1", {"gain": 0.5}]
+]
